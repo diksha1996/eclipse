@@ -4,6 +4,6 @@ public class first
 	{
 		System.out.println("Hello");
 		System.out.println("heyy dishu");
-		
+		System.out.println("local");
 	}
 }
